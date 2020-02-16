@@ -10,7 +10,8 @@ double specialBonus = 0.6;
 double totalBonus = regularBonus + specialBonus;
 System.out.println(totalBonus);
 }
-} ```
+} 
+```
 1. При выполнении команды: "Run" программа выдала сообщение с числовым значением, которое не совсем соответствовало вводным данным.
 
 ## Описание тестов
